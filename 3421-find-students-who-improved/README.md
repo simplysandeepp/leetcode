@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-students-who-improved">3421. Find Students Who Improved</a></h2><h3>Medium</h3><hr><p>Table: <code>Scores</code></p>
+<h2><a href="https://leetcode.com/problems/find-students-who-improved">3767. Find Students Who Improved</a></h2><h3>Medium</h3><hr><p>Table: <code>Scores</code></p>
 
 <pre>
 +-------------+---------+
