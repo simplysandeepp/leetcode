@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1978-employees-whose-manager-left-the-company](https://github.com/simplysandeepp/DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/simplysandeepp/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3421-find-students-who-improved](https://github.com/simplysandeepp/leetcode/tree/main/3421-find-students-who-improved/) | Medium |
+| [3475-dna-pattern-recognition](https://github.com/simplysandeepp/leetcode/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
