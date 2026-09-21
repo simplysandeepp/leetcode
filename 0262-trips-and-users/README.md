@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/trips-and-users/description/">262. Trips and Users</a></h2><h3>Hard</h3><hr><p>Table: <code>Trips</code></p>
+<h2><a href="https://leetcode.com/problems/trips-and-users">262. Trips and Users</a></h2><h3>Hard</h3><hr><p>Table: <code>Trips</code></p>
 
 <pre>
 +-------------+----------+
