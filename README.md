@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/simplysandeepp/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/simplysandeepp/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/simplysandeepp/DSA/tree/main/1907-count-salary-categories/) | Medium |
+| [1934-confirmation-rate](https://github.com/simplysandeepp/leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/simplysandeepp/DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/simplysandeepp/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3421-find-students-who-improved](https://github.com/simplysandeepp/leetcode/tree/main/3421-find-students-who-improved/) | Medium |
