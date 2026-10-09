@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simplysandeepp/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/simplysandeepp/DSA/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/simplysandeepp/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simplysandeepp/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/simplysandeepp/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/simplysandeepp/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/simplysandeepp/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -775,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/simplysandeepp/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/simplysandeepp/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/simplysandeepp/DSA/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/simplysandeepp/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1927-sum-game](https://github.com/simplysandeepp/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/simplysandeepp/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -1137,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simplysandeepp/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/simplysandeepp/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simplysandeepp/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simplysandeepp/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Randomized
