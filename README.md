@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/simplysandeepp/DSA/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simplysandeepp/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/simplysandeepp/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/simplysandeepp/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/simplysandeepp/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0687-longest-univalue-path](https://github.com/simplysandeepp/DSA/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/simplysandeepp/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/simplysandeepp/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/simplysandeepp/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/simplysandeepp/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/simplysandeepp/DSA/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/simplysandeepp/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simplysandeepp/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -513,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/simplysandeepp/DSA/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simplysandeepp/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/simplysandeepp/DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -827,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/simplysandeepp/DSA/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/simplysandeepp/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -998,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/simplysandeepp/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/simplysandeepp/DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/simplysandeepp/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/simplysandeepp/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -1074,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simplysandeepp/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/simplysandeepp/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/simplysandeepp/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1082,12 +1090,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/simplysandeepp/DSA/tree/main/0397-integer-replacement/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/simplysandeepp/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/simplysandeepp/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/simplysandeepp/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1174,4 +1184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/simplysandeepp/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
