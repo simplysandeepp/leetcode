@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/simplysandeepp/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/simplysandeepp/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/simplysandeepp/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/simplysandeepp/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/simplysandeepp/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/simplysandeepp/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/simplysandeepp/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/simplysandeepp/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/simplysandeepp/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/simplysandeepp/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/simplysandeepp/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/simplysandeepp/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/simplysandeepp/DSA/tree/main/3229-minimum-operations-to-make-array-equal-to-target/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simplysandeepp/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/simplysandeepp/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/simplysandeepp/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3364-minimum-positive-sum-subarray](https://github.com/simplysandeepp/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -521,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/simplysandeepp/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/simplysandeepp/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/simplysandeepp/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/simplysandeepp/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/simplysandeepp/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/simplysandeepp/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/simplysandeepp/DSA/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -816,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/simplysandeepp/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/simplysandeepp/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/simplysandeepp/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/simplysandeepp/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/simplysandeepp/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/simplysandeepp/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
