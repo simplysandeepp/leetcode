@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/simplysandeepp/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/simplysandeepp/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/simplysandeepp/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/simplysandeepp/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/simplysandeepp/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/simplysandeepp/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/simplysandeepp/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/simplysandeepp/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1510-stone-game-iv/) | Hard |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0384-shuffle-an-array](https://github.com/simplysandeepp/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/simplysandeepp/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 ## Prefix Sum
@@ -761,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1094-car-pooling](https://github.com/simplysandeepp/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1140-stone-game-ii](https://github.com/simplysandeepp/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/simplysandeepp/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/simplysandeepp/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simplysandeepp/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1188,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/simplysandeepp/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
